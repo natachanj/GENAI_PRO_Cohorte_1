@@ -1,0 +1,37 @@
+# Requirements pour Notion MCP Agent
+# Projet : Agent IA conversationnel pour Notion via MCP
+
+# Framework d'agents IA
+agents>=0.1.0
+
+# Client OpenAI pour l'API GPT
+openai>=1.0.0
+
+# Gestion des variables d'environnement
+python-dotenv>=1.0.0
+
+# Support asyncio dans Jupyter
+nest-asyncio>=1.6.0
+
+# Logging et gestion des requêtes HTTP
+httpx>=0.24.0
+
+# Utilitaires système (inclus avec Python)
+# os, asyncio, logging, json, traceback
+
+# Dépendances optionnelles pour le développement
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Pour la gestion des types (si nécessaire)
+typing-extensions>=4.0.0
+
+# Pour la validation JSON (si nécessaire)
+pydantic>=2.0.0
+
+# Notes d'installation :
+# 1. Installer avec : pip install -r requirements.txt
+# 2. Créer un fichier .env avec :
+#    NOTION_API_KEY=your_notion_integration_token
+#    OPENAI_API_KEY=your_openai_api_key
+# 3. Configurer l'intégration Notion sur https://www.notion.com/my-integrations 
