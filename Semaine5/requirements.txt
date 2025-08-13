@@ -1,0 +1,15 @@
+ollama>=0.3.0
+openai>=1.40.0
+
+# LangChain + intégrations
+langchain>=0.2.12
+langchain-community>=0.2.11
+langchain-ollama>=0.1.0
+
+# Utilitaires
+python-dotenv>=1.0.1
+
+# Exécution des notebooks
+jupyter>=1.0.0
+ipykernel>=6.29.5
+

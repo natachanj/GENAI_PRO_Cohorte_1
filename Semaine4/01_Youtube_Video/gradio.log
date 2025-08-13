@@ -1,0 +1,11 @@
+/Users/natachanjongwayepnga/Downloads/GENAI_PRO_Cohorte_1/Semaine4/01_Youtube_Video/1_youtube_agent_gradio.py:295: UserWarning: You have not specified a value for the `type` parameter. Defaulting to the 'tuples' format for chatbot messages, but this is deprecated and will be removed in a future version of Gradio. Please set type='messages' instead, which uses openai-style dictionaries with 'role' and 'content' keys.
+  chatbot = gr.Chatbot(
+/Users/natachanjongwayepnga/Downloads/GENAI_PRO_Cohorte_1/Semaine4/01_Youtube_Video/1_youtube_agent_gradio.py:295: DeprecationWarning: The 'bubble_full_width' parameter is deprecated and will be removed in a future version. This parameter no longer has any effect.
+  chatbot = gr.Chatbot(
+* Running on local URL:  http://0.0.0.0:7860
+* Running on public URL: https://5657c1fb964fae2b1a.gradio.live
+
+This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
+🎥 Récupération de la transcription pour: 0Uu_VJeVVfo
+🎥 Récupération de la transcription pour: 0Uu_VJeVVfo
+🎥 Récupération de la transcription pour: 0Uu_VJeVVfo
