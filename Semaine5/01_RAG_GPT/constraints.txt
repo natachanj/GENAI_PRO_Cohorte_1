@@ -1,0 +1,7 @@
+pydantic==2.8.2
+pydantic-core==2.20.1
+typing-extensions>=4.8
+numpy==1.26.4
+duckdb>=1.0.0
+fastapi>=0.111
+starlette>=0.37

@@ -1,0 +1,73 @@
+# ===================================
+# Python
+# ===================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ===================================
+# Environnements virtuels
+# ===================================
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.conda_env/
+
+# ===================================
+# Logs et caches
+# ===================================
+*.log
+*.out
+*.err
+*.tmp
+*.temp
+*.cache/
+.cache/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+coverage.xml
+htmlcov/
+
+# ===================================
+# Config & secrets
+# ===================================
+.env
+.env.*
+*.secret
+secrets.json
+config.json
+
+# ===================================
+# Données locales
+# ===================================
+*.db
+*.sqlite
+*.sqlite3
+*.h5
+*.pkl
+*.joblib
+*.ckpt
+*.pt
+*.bin
+
+# ===================================
+# Spaces / Hugging Face
+# ===================================
+# Les dossiers où tu stockes des données locales à ne pas uploader
+chroma/
+data/
+datasets/
+notebooks/
+outputs/
+results/
+tmp/
