@@ -1,4 +1,4 @@
-# Jour 4 — Résumé Automatique de Documents Financiers
+# Semaine 6 — Résumé Automatique de Documents Financiers
 
 ## 🎯 Objectif
 
