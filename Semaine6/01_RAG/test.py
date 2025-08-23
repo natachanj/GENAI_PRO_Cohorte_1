@@ -4,7 +4,7 @@ import fitz  # PyMuPDF
 from dotenv import load_dotenv, find_dotenv
 from openai import OpenAI
 import tempfile
-import pathlib
+
 
 # Configuration de la page
 st.set_page_config(
