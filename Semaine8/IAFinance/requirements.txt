@@ -1,0 +1,7 @@
+python-dotenv
+numpy
+pandas
+yfinance
+matplotlib
+openai
+gradio
